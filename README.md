@@ -1,9 +1,10 @@
 # micropython-keyboard-ps2
 Full library for PS/2 keyboard on Micropython.
 
+![Image](./photos/ps2_male.png)
+
 This works for some USB-keyboards. You need to use a simple USB-adapter for this.
 
-![Image](./photos/ps2_male.png)
 ![Image](./photos/usb_female.png)
 
 ## Connection
